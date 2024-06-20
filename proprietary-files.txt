@@ -1486,4 +1486,3 @@ odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 
 # Camera (Oplus) - kang - from CPH2449_11.A.23_0230_202306140953
 odm/lib64/libAlgoProcess.so|b7c9d88092503b4666acddbc8e34e49a1e84649c
-odm/lib64/libui.so|88b8584db2fa78d0ec06d89f623f8321721051e1
