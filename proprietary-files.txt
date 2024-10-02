@@ -1460,6 +1460,9 @@ vendor/firmware/vpu20_1v_unsigned.mbn
 vendor/firmware/vpu20_4v.mbn
 vendor/firmware/vpu20_4v_unsigned.mbn
 
+# WiFi config - from CPH2413_11.A.05
+odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini|e81ca7d4b28a80415ae5779712ad1a65ba99a0d5
+
 # WiFi firmware
 odm/etc/wifi/bdwlan.b0a;SYMLINK=odm/etc/wifi/qca6490/bdwlan.b0a
 odm/etc/wifi/bdwlan.b0c;SYMLINK=odm/etc/wifi/qca6490/bdwlan.b0c
@@ -1470,7 +1473,6 @@ odm/etc/wifi/bdwlang.b0c;SYMLINK=odm/etc/wifi/qca6490/bdwlang.b0c
 odm/etc/wifi/bdwlang.b0e;SYMLINK=odm/etc/wifi/qca6490/bdwlang.b0e
 odm/etc/wifi/bdwlang.elf;SYMLINK=odm/etc/wifi/qca6490/bdwlang.elf
 odm/etc/wifi/regdb.bin
-odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 
 # Camera (Oplus) - kang - from CPH2449_11.A.23_0230_202306140953
 odm/lib64/libAlgoProcess.so|b7c9d88092503b4666acddbc8e34e49a1e84649c
