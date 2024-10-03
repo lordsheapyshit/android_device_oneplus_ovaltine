@@ -1473,6 +1473,3 @@ odm/etc/wifi/bdwlang.b0c;SYMLINK=odm/etc/wifi/qca6490/bdwlang.b0c
 odm/etc/wifi/bdwlang.b0e;SYMLINK=odm/etc/wifi/qca6490/bdwlang.b0e
 odm/etc/wifi/bdwlang.elf;SYMLINK=odm/etc/wifi/qca6490/bdwlang.elf
 odm/etc/wifi/regdb.bin
-
-# Camera (Oplus) - kang - from CPH2449_11.A.23_0230_202306140953
-odm/lib64/libAlgoProcess.so|b7c9d88092503b4666acddbc8e34e49a1e84649c
