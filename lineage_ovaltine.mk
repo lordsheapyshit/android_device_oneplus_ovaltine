@@ -23,8 +23,8 @@ PRODUCT_MODEL := CPH2417
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 13 TP1A.220905.001 1690541595415 release-keys" \
-    BuildFingerprint=OnePlus/CPH2417/OP5552L1:13/SKQ1.221119.001/S.123ec2a_6b801_6ff30:user/release-keys \
+    BuildDesc="qssi-user 14 UKQ1.230924.001 1725609152768 release-keys" \
+    BuildFingerprint=OnePlus/CPH2417/OP5552L1:13/SKQ1.221119.001/S.19e9506-35-25b49:user/release-keys \
     DeviceName=OnePlus10T \
     DeviceProduct=OnePlus10T \
     SystemName=CPH2417 \
